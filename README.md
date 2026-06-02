@@ -21,7 +21,6 @@ This started as a personal project to push what's possible in a single, self-con
 - 🏚️ **Atmospheric, environmental storytelling** — no hand-holding
 - 🔀 **Multiple endings** depending on the choices you make
 - 🔎 **A hidden narrative thread** for the curious
-- 🔊 **Fully synthesized audio** — every sound generated in-browser, no audio files
 - 📦 **Self-contained** — the entire game, including the 3D engine, ships in one HTML file
 
 ## Controls
