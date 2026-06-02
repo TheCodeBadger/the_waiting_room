@@ -4,7 +4,7 @@
 
 A first-person **liminal-horror** walking simulator that runs entirely in your browser — no downloads, no installs, no plugins. Step into a quiet, wrong-feeling medical facility and find your way out... if there is one.
 
-![The Waiting Room — Title Image](images/The%20Waiting%20Room.png)
+![The Waiting Room — Title Image](Images/The%20Waiting%20Room.png)
 
 ---
 
